@@ -1,0 +1,18 @@
+Make a peronal page (portfolio)
+
+What it will look like:
+1) Clean, mostly empty space
+2)Consolidated, no scrolling unless asked for (expanded)
+3)Little to no animations
+
+Content:
+- Some demos for games (at most 2)
+- Include a clock
+-Peronal info (proffessional with the option of unprofessional)
+- Maybe some demo of a section that makes requests from an API
+
+
+Sequence:
+1)HTML Draft
+2)CSS 
+3)JS funcitonality - this will be broken up into sub-steps due to the nature of what I want
